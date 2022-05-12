@@ -10,8 +10,8 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Spider手账本',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
-  author: 'SPIDER',
+  domain: 'https://spiderzhong.notion.site/Spider-eb2df5166ba24b3e9dbf119f26f6024d',
+  author: 'Spider',
 
   // open graph metadata (optional)
   description: 'Next.js Notion',
